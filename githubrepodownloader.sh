@@ -34,7 +34,7 @@ IOKWgOKWiOKWhOKWgOKWqiDiloDiloDiloDiloAg4paA4paq4paA4paAIOKWiOKWqi7iloDiloDi
 loAgIOKWgOKWiOKWhOKWgOKWqiDiloAgIOKWgCDiloDiloDiloDiloDiloDigKIgIOKWgOKWgOKW
 gCAu4paAICDiloAK
 ";
-GITUSER="" # later loaded from the .gituser file!
+GITUSER="SushilGreat" # later loaded from the .gituser file!
 CPAGE=0
 ENTRIESPERPAGE=500
 REPOSFOLDER="repos";
